@@ -1,0 +1,5 @@
+-idade abaixo de 18 com score alto
+-idade abaxio de 18 com score baixo
+-idade acima de 18 com score alto
+-idade acima de 18 com score baixo
+-
